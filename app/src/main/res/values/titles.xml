@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title1">Карта Австралия и Океания Политическая 1:14 000 000</string>
+    <string name="title2">Карта Австралия и Океания Физическая 1:14 000 000</string>
+    <string name="title3">Карта Азия Политическая 1:18 000 000</string>
+    <string name="title4">Карта Азия Физическая 1:18 000 000</string>
+    <string name="title5">Карта Африка Политическая 1:12 500 000</string>
+    <string name="title6">Карта Африка Физическая 1:12 500 000</string>
+    <string name="title7">Карта Евразия Физическая 1:12 500 000</string>
+    <string name="title8">Карта Европа Политическая 1:18 000 000</string>
+    <string name="title9">Карта Мира политическая 1:25 000 000</string>
+    <string name="title10">Карта Мира физическая 1:25 000 000</string>
+    <string name="title11">Карта Народы и плотность населения мира 1:25 000 000</string>
+    <string name="title12">Карта океанов 1:25 000 000</string>
+    <string name="title13">Карта Северная Америка Политическая 1:12 000 000</string>
+    <string name="title14">Карта Северная Америка Физическая 1:12 000 000</string>
+    <string name="title15">Карта США Общегеографическая 70*100 см</string>
+    <string name="title16">Карта США Социально-экономическая 70*100 см</string>
+    <string name="title17">Карта РК Политико-административная 1:1 500 000 ламин. 3D 2019 г</string>
+    <string name="title18">Карта РК Политико-административная 1:2 000 000 ламин.  гос.яз 2014 г</string>
+    <string name="title19">Карта РК Физическая 1:1 500 000 ламин. гос.яз. 2014 г</string>
+    <string name="title20">Карта РК Физическая 1:2 500 000 ламин. гос.яз. 2014 г</string>
+    <string name="title21">Карта РК Полезные ископаемые 1:2 500 000 ламин. рус.яз. 2015 г</string>
+    <string name="title22">Карта РК Топливно-энергетический комплекс 1:2 500 000  ламин. рус.яз. 2014 г</string>
+    <string name="title23">Карта РК Экономическая 1:2 000 000 ламин. гос.яз. 2014 г</string>
+
+</resources>
